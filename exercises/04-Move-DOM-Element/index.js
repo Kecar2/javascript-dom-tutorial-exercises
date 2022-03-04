@@ -1,2 +1,3 @@
 let aux = document.querySelector("#wulu");
-//your code here
+//your code here"
+document.getElementById("wulu").style.cssFloat = "right";
